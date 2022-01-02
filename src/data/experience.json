@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 0,
+   
+      "company": "Pranava EET",
+      "title": "web Developement Intern",
+      "dateFrom": "Feb 2021",
+      "dateTo": "March 2021",
+      "info": [
+        "Responsible for creating static & dynamic websites and web pages"
+        
+      ],
+      "stack": ["HTML5", "CSS", "Bootstrap", "JavaScript"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+     
+      "company": "Innovacx tech labs private limited",
+      "title": "Specialist Enterprise",
+      "dateFrom": "May 2021",
+      "dateTo": "Current",
+      "info": [
+        "Developing and implementing cloud applications related to services"
+        
+      ],
+      "stack": ["Oracle CRM", "Groovy Script", "SQL"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    }
+  
+  ]
+}

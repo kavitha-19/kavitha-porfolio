@@ -1,0 +1,33 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Python",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "C",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "JavaScript",
+      "amount": "90"
+    },
+   
+    {
+      "id": 3,
+      "skillName": "Node.js",
+      "amount": "80"
+    },
+    {
+      "id": 4,
+      "skillName": "React",
+      "amount": "75"
+    },
+    { "id": 5, "skillName": "SQL", "amount": "70" },
+    { "id": 6, "skillName": "Oracle CRM - Services", "amount": "70" }
+  
+  ]
+}

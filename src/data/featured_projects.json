@@ -1,0 +1,32 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "A Corona Recognition Method based on Visible Light Color & Machine Learning",
+      "link": "https://www.cactuscan.com/",
+      "description": "Built a detection models to detect electric discharge based on information on visual images .",
+     
+      "colour": " #f44336",
+     
+     
+      "languages": [
+        { "name": "Python", "color": "rgb(241, 224, 90)" },
+        { "name": "Django", "color": "rgb(100, 219, 255)" }
+      ],
+      "Role":"Team Lead"
+    },
+    {
+      "id": 1,
+      "name": "Information Retrieval Ranking using Machine Learning Techniques",
+      "link": "https://www.bartiniapp.com/",
+      "description": "Built an IR ranking system which gives an optimised ranking parameters to retrieve the web pages.",
+      "colour": "#23c788",
+      "languages": [
+        { "name": "Python", "color": "rgb(241, 224, 90)" },
+        { "name": "Django", "color": "rgb(86, 61, 124)" },
+        { "name": "Machine Learning", "color": "white" }
+      ],
+      "Role":"Team Lead"
+    }
+  ]
+}
